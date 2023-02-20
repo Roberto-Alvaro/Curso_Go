@@ -1,0 +1,18 @@
+-variables y tipos de datos
+
+dato: letra o numero
+variable: es un nombre que se refiere a un dato, espacio en memoria
+
+-operadores aritmeticos y jerarquia
+** ---> exponente
+// ---> division entera
+
+-cadena de texto
+debanado --> mostrar el contenido de una cadena segmentada
+como en python
+
+"Monty python"
+
+[0:5] = "Monty"
+[:3] = "Mon"
+[3:] = "hon"
